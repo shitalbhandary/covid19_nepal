@@ -1,0 +1,1 @@
+The covid_tble.final.pdf file is compiled in R Studio with this code!

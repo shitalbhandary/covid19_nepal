@@ -144,7 +144,7 @@ lines(fitted(dqlm.train) ~ SN, data=train.pd, col="red", lwd=2)
 
 #Prediction with test data
 prediction <- predict(dqlm.train, trest.pd)
-#library(caret)
+library(caret)
 (R2.test.pd <- R2(prediction, trest.pd$Deaths_total))
 (RMSE.test.pd <- RMSE(prediction, trest.pd$Deaths_total))
 
