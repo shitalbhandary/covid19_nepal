@@ -1,5 +1,5 @@
 #Shital Bhandary
-#2 July 2023
+#2 June 2023
 #Based on 21st Lecture of Statistical Computing with R course
 #Masters in Data Science program, School of Mathematical Sciences
 #Tribhuvan University, Kirtipur, Nepal
