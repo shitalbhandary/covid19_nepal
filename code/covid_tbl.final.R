@@ -3,6 +3,7 @@
 #Based on 21st Lecture of Statistical Computing with R course
 #Masters in Data Science program, School of Mathematical Sciences
 #Tribhuvan University, Kirtipur, Nepal
+#Changed on 13 June for class slide
 
 covid_tbl_final <- read.csv("~/Documents/covid19_nepal/data/covid_tbl_final.csv")
 str(covid_tbl_final)
